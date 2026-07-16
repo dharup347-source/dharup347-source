@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**dharup347-source/dharup347-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Dharu 
+First-year CS student • learning Python, one real project
+at a time
+• ἴ Currently learning Python and the fundamentals of Git &
+GitHub
+•  Working on small, real scripts instead of just tutorials
+•  Also spend a lot of time reading market structure in trading —
+slowly figuring out how to turn that pattern-recognition into code
+• 2026 goal: ship projects I can actually explain and defend, not
+just finish
+•  Reach me:dharup347@gmail.com
+Tools & Tech
+Thanks for stopping by — more projects landing here soon.
