@@ -1,13 +1,21 @@
-Hi there, I'm Dharu 
-First-year CS student • learning Python, one real project
-at a time
-• ἴ Currently learning Python and the fundamentals of Git &
-GitHub
-•  Working on small, real scripts instead of just tutorials
-•  Also spend a lot of time reading market structure in trading —
-slowly figuring out how to turn that pattern-recognition into code
-• 2026 goal: ship projects I can actually explain and defend, not
-just finish
-•  Reach me:dharup347@gmail.com
-Tools & Tech
-Thanks for stopping by — more projects landing here soon.
+### Hi, I'm Dharu 👋
+
+First-year **Electronics & VLSI** student.
+
+I'm building strong coding foundations so I can go deeper into digital design, HDL, and semiconductor tools later.
+
+**Currently learning**
+- Python (problem solving + scripting)
+- Git & GitHub
+- Basics of digital electronics & logic design
+- C (for embedded / low-level thinking)
+
+**Projects**
+- Starting fresh — new projects coming soon
+
+**2026 Goals**
+- Build a solid portfolio of coding + digital design projects
+- Learn Verilog / SystemVerilog properly
+- Understand how software and hardware meet (especially useful for VLSI)
+
+Reach me → dharup347@gmail.com
