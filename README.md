@@ -11,7 +11,7 @@ I'm building strong coding foundations so I can go deeper into digital design, H
 - C (for embedded / low-level thinking)
 
 **Projects**
-- Starting fresh — new projects coming soon
+- [Logic Gates Simulator](https://github.com/dharup347-source/logic-gates-simulator) – Simple Python simulator for AND, OR, NOT, NAND, NOR, XOR, XNOR gates
 
 **2026 Goals**
 - Build a solid portfolio of coding + digital design projects
