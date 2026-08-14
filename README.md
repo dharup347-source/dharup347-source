@@ -14,6 +14,7 @@ I'm building strong coding foundations so I can go deeper into digital design, H
 - [Logic Gates Simulator](https://github.com/dharup347-source/logic-gates-simulator) – Simple Python simulator for AND, OR, NOT, NAND, NOR, XOR, XNOR gates
 - [Number System Converter](https://github.com/dharup347-source/number-system-converter) – Convert numbers between Binary, Decimal, and Hexadecimal
 - [Simple Calculator](https://github.com/dharup347-source/simple-calculator) – Basic arithmetic calculator with error handling
+- [Truth Table Generator](https://github.com/dharup347-source/truth-table-generator) – Generate truth tables for basic logic gates
 
 **2026 Goals**
 - Build a solid portfolio of coding + digital design projects
