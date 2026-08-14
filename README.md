@@ -15,6 +15,7 @@ I'm building strong coding foundations so I can go deeper into digital design, H
 - [Number System Converter](https://github.com/dharup347-source/number-system-converter) – Convert numbers between Binary, Decimal, and Hexadecimal
 - [Simple Calculator](https://github.com/dharup347-source/simple-calculator) – Basic arithmetic calculator with error handling
 - [Truth Table Generator](https://github.com/dharup347-source/truth-table-generator) – Generate truth tables for basic logic gates
+- [Binary Adder](https://github.com/dharup347-source/binary-adder) – Adds two binary numbers and shows binary + decimal result
 
 **2026 Goals**
 - Build a solid portfolio of coding + digital design projects
