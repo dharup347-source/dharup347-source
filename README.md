@@ -1,26 +1,24 @@
 ### Hi, I'm Dharu 👋
 
-First-year **Electronics & VLSI** student.
-
-I'm building strong coding foundations so I can go deeper into digital design, HDL, and semiconductor tools later.
+First-year student learning **Python** with focus on problem solving and building projects.
 
 **Currently learning**
-- Python (problem solving + scripting)
+- Python (problem solving + projects)
 - Git & GitHub
-- Basics of digital electronics & logic design
-- C (for embedded / low-level thinking)
+- Data handling basics
 
 **Projects**
-- [Logic Gates Simulator](https://github.com/dharup347-source/logic-gates-simulator) – Simple Python simulator for AND, OR, NOT, NAND, NOR, XOR, XNOR gates
-- [Number System Converter](https://github.com/dharup347-source/number-system-converter) – Convert numbers between Binary, Decimal, and Hexadecimal
-- [Simple Calculator](https://github.com/dharup347-source/simple-calculator) – Basic arithmetic calculator with error handling
-- [Truth Table Generator](https://github.com/dharup347-source/truth-table-generator) – Generate truth tables for basic logic gates
-- [Binary Adder](https://github.com/dharup347-source/binary-adder) – Adds two binary numbers and shows binary + decimal result
-- [Half Adder & Full Adder](https://github.com/dharup347-source/half-full-adder) – Simulates Half Adder and Full Adder (Sum + Carry)
+- [Student Management System](https://github.com/dharup347-source/student-management-system) – Add, view, search, update and delete student records
+- [Logic Gates Simulator](https://github.com/dharup347-source/logic-gates-simulator) – Simulate basic logic gates
+- [Number System Converter](https://github.com/dharup347-source/number-system-converter) – Convert between Binary, Decimal and Hexadecimal
+- [Simple Calculator](https://github.com/dharup347-source/simple-calculator) – Basic arithmetic calculator
+- [Truth Table Generator](https://github.com/dharup347-source/truth-table-generator) – Generate truth tables for logic gates
+- [Binary Adder](https://github.com/dharup347-source/binary-adder) – Add two binary numbers
+- [Half Adder & Full Adder](https://github.com/dharup347-source/half-full-adder) – Simulate Half and Full Adder
 
-**2026 Goals**
-- Build a solid portfolio of coding + digital design projects
-- Learn Verilog / SystemVerilog properly
-- Understand how software and hardware meet (especially useful for VLSI)
+**Goals**
+- Build a strong GitHub portfolio
+- Improve problem-solving skills
+- Learn data handling and prepare for AI/ML fundamentals
 
 Reach me → dharup347@gmail.com
